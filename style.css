@@ -1,0 +1,17 @@
+/* barra de navegacion */
+
+.navbar {
+    padding: 2rm;
+    background-color: coral;
+}
+
+.navbar .navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* mis estilos */
+.navbar .navbar-collapse .nav-link:hover {
+    color: bisque;
+}
+
